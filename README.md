@@ -1,4 +1,4 @@
-# Electronic store Management System
+# Electronic Store Management System
  
 
 ## Installation
