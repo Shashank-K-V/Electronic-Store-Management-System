@@ -1,0 +1,11 @@
+select name
+from supplier, product
+where supplier.supplier_id = product.supplier_is
+and supplier.company_name = "Lenovo";
+
+
+
+select cash, date
+from transaction, customer
+where transaction.cust_id = customer.cust_id
+and customer.first_name = "John" ;
