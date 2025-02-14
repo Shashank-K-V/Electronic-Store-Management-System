@@ -5,11 +5,15 @@ A web-based application for managing an electronic store's inventory, products, 
 
 🚀 Features
 
-✅ Add, edit, and delete products
-✅ Manage inventory and stock levels
-✅ User-friendly UI for easy store management
-✅ Shopping cart and checkout functionality
-✅ Secure user authentication (Admin & Customers)
+✅ Add, edit, and delete products.
+
+✅ Manage inventory and stock levels.
+
+✅ User-friendly UI for easy store management.
+
+✅ Shopping cart and checkout functionality.
+
+✅ Secure user authentication (Admin & Customers).
 
 🛠️ Technologies Used
 
