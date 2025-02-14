@@ -1,9 +1,9 @@
 
-## 🛒 Electronic Store Management System
+# 🛒 Electronic Store Management System
 
 A web-based application for managing an electronic store's inventory, products, and customer transactions. Built using PHP, MySQL, and XAMPP.
 
-# 🚀 Features
+## 🚀 Features
 
 ✅ Add, edit, and delete products.
 
@@ -15,7 +15,7 @@ A web-based application for managing an electronic store's inventory, products, 
 
 ✅ Secure user authentication (Admin & Customers).
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
