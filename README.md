@@ -1,5 +1,5 @@
 
-🛒 Electronic Store Management System
+### 🛒 Electronic Store Management System
 
 A web-based application for managing an electronic store's inventory, products, and customer transactions. Built using PHP, MySQL, and XAMPP.
 
