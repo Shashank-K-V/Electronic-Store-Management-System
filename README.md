@@ -17,10 +17,10 @@ A web-based application for managing an electronic store's inventory, products, 
 
 ## 🛠️ Technologies Used
 
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL (phpMyAdmin)
-Server: XAMPP (Apache, MySQL)
+#### Frontend: HTML, CSS, JavaScript
+#### Backend: PHP
+#### Database: MySQL (phpMyAdmin)
+#### Server: XAMPP (Apache, MySQL)
 
 ## Installation
 
